@@ -1,7 +1,7 @@
 # **ALU_IN_ASU**
 ## **Software tools**
-Xilinix ISE Design Suite
-Cadence Virtuoso
+Xilinix ISE Design Suite\n
+Cadence Virtuoso\n
 Logisim
 
 ## **Digital Design project**
