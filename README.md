@@ -19,3 +19,11 @@ Logisim
 ![image](https://user-images.githubusercontent.com/74486351/170726939-2b0f19a6-bc48-4924-9529-96fe7c0bc45f.png)
 ![image](https://user-images.githubusercontent.com/74486351/170726951-ba2a1446-bf32-4e82-a8ea-277d1523e70a.png)
 
+## **Cadence Test Bench** 
+A = 1010  
+B = 1001
+![image](https://user-images.githubusercontent.com/74486351/171183973-0b600a8c-7ee5-486b-9f0f-b8ac65e6bd94.png)
+
+A = 1111  
+B = 1111
+![image](https://user-images.githubusercontent.com/74486351/171184061-05771bfd-0c51-4b91-8237-4f063a5755b2.png)
