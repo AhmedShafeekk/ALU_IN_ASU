@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun May 29 05:48:11 2022 
+Best design point: 1
+Design specs: 
+	Final_Blocks:ALU_TB:1	corner	Nominal - 
+	avgPwr		-8.403m
+Design parameters: 
+	WN		160n
+	CLK		588.2p
+
+Interactive.60
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.60 completed. 
+Current time: Sun May 29 05:49:02 2022 

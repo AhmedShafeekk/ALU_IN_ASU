@@ -1,0 +1,37 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.7 - CAT35 10/18/2015 00:07 (sjfnl678) $
+\o Sub version:		sub-version  p009 
+\o Arguments:		-display :0 -mpssession virtuoso1978 -mpshost berkeley -namespace CDBA -cdslib /home/cadence/Final_Begad/cds.lib 
+\o Working Directory:	berkeley:/home/cadence/Final_Begad
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		4.8.5
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrResizeWindow(cdsLibEditor list(0 45 500 400))
+\a nrResizeWindow(cdsLibEditor list(1014 230 500 400))
+\a nrListItemAction(cdsLibEditor->mainTable 9 0)
+\o Active cell: 9 0 ""
+\a nrListItemAction(cdsLibEditor->mainTable 9 1)
+\o Active cell: 9 1 ""
+\a nrListItemAction(cdsLibEditor->mainTable 10 0)
+\o Active cell: 10 0 ""
+\a nrListItemAction(cdsLibEditor->mainTable 10 1)
+\o Active cell: 10 1 ""
+\a nrListItemAction(cdsLibEditor->mainTable 11 0)
+\o Active cell: 11 0 ""
+\a nrListItemAction(cdsLibEditor->mainTable 11 1)
+\o Active cell: 11 1 ""
+\a nrListItemAction(cdsLibEditor->mainTable 12 0)
+\o Active cell: 12 0 ""
+\a nrListItemAction(cdsLibEditor->mainTable 12 1)
+\o Active cell: 12 1 ""
+\a nrListItemAction(cdsLibEditor->mainTable 13 0)
+\o Active cell: 13 0 ""
+\a nrListItemAction(cdsLibEditor->mainTable 13 1)
+\o Active cell: 13 1 ""
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 14 0)
+\o Active cell: 14 0 ""
+\a cdsLibEditor->fileSaveButton->value = t
+\a cdsLibEditor->fileExitButton->value = t
+\a nrSetWindowVisibility(cdsLibEditor "hide")
+\a exit(0)

@@ -1,0 +1,9 @@
+# File Created by cadence,,, at Sat May 28 14:48:27 2022
+# assisted by CdsLibEditor
+SOFTINCLUDE /usr/local/cadence/IC617/share/cdssetup/cds.lib
+DEFINE MentorObserverLib $MGC_HOME/shared/pkgs/icv/tools/realtime/virtuoso/MentorObserverLib
+DEFINE Arithmetic_Unit Arithmetic_Unit
+DEFINE Logic_Unit Logic_Unit
+DEFINE Shafeek_alu Shafeek_alu
+DEFINE Final_Blocks Final_Blocks
+DEFINE umc13mmrf /home/cadence/my_project/umc13mmrf

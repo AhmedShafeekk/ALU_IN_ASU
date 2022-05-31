@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed May 25 13:46:28 2022 
+Best design point: 1
+Design specs: 
+	ALU_TEST_BENCHES:LOGIC_UNIT_TB:1	corner	Nominal - 
+Design parameters: 
+	WN		1u
+
+Interactive.1
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.1 completed. 
+Current time: Wed May 25 13:46:33 2022 

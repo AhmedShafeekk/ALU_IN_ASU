@@ -1,0 +1,29 @@
+\o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 10/18/2015 00:06 (sjfnl678) $
+\o Sub version:		sub-version  p009 
+\o Arguments:		-unmapped -mpssession virtuoso1834 -mpshost berkeley 
+\o Working Directory:	berkeley:/home/cadence/Digital_Project/Logic_Unit
+\o 64-bit offsets
+\o Qt version: 		4.8.5
+\o changeWorkingDir("/home/cadence/Digital_Project/Logic_Unit") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/home/cadence/Digital_Project/Logic_Unit/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(0 25 1684 750))
+\a nrResizeWindow(cdsLibManager list(-2 24 1920 1009))
+\a cdsLibManager->fileLoadDefaultsButton->value = t
+\a nrSetWindowVisibility(LoadDefaultEnvironment "show")
+\a nrSetCurrentWindow(LoadDefaultEnvironment)
+\a LoadDefaultEnvironment->QLineEdit2->value = "/home/cadence/Digital_Project/Logic_Unit/"
+\a nrResizeWindow(LoadDefaultEnvironment list(722 261 472 360))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(115 602 1684 750))
+\a nrResizeWindow(cdsLibManager list(138 516 1684 750))
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a exit(0)
