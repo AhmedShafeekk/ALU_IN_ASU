@@ -14,8 +14,13 @@ Logisim
 ![image](https://user-images.githubusercontent.com/74486351/170593542-9cf77ef9-35e3-4753-8279-1214946061eb.png)
 
 ## **VHDL Test Bench**
+A = 1010  
+B = 0101
 ![image](https://user-images.githubusercontent.com/74486351/170726883-12fac0e1-73a1-406f-aafc-58372773d5c1.png)
 ![image](https://user-images.githubusercontent.com/74486351/170726908-667b9a43-fee1-4ab6-a7e7-9e75d96c95b3.png)
+
+A = 1100  
+B = 1011
 ![image](https://user-images.githubusercontent.com/74486351/170726939-2b0f19a6-bc48-4924-9529-96fe7c0bc45f.png)
 ![image](https://user-images.githubusercontent.com/74486351/170726951-ba2a1446-bf32-4e82-a8ea-277d1523e70a.png)
 
