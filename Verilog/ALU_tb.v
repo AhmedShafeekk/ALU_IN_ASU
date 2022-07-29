@@ -25,9 +25,7 @@ module ALU_tb;
 		sel = 0;
 		
 		for (sel=0;sel<=15;sel = sel+1)
-				#10;
-        
-		// Add stimulus here
+					#10;
 
 	end
       
