@@ -1,9 +1,3 @@
-# **ALU_IN_ASU**
-**ALU can perform signed operations**  
-**Worst case delay:** 700 p s  
-**Max frequency of operations:** 1.42 GHz  
-**Power Consumption:** 10.97 m W
-
 ## **Software tools**
 Xilinx ISE Design Suite  
 Cadence Virtuoso  
